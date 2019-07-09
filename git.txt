@@ -1,0 +1,19 @@
+新建github仓库 temp1
+本地git init temp1 
+
+git add README.md
+
+运行
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+
+新建文件：xxx
+
+
+
+git commit -m“temp1”
+git remote add origin https://github.com/lyilig/temp1.git
+
+git push -u origin master
